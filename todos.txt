@@ -1,4 +1,3 @@
 Commit changes
 Deploy App
 Set up venv
-
